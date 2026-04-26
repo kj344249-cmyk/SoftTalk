@@ -7,7 +7,7 @@ SoftTalk is a community hub designed for teenagers to express themselves, share 
     <style>
         body {
             background-color: #ffd6eb;
-            font-family: Arial;
+            font-family: Balette;
             text-align: center;
         }
         h1 {
