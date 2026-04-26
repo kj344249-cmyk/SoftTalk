@@ -20,5 +20,3 @@ SoftTalk is a community hub designed for teenagers to express themselves, share 
     <h1>Welcome to my website 💕</h1>
     <p>This is my first site!</p>
 
-</body>
-</html>
