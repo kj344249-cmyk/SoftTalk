@@ -3,7 +3,7 @@ SoftTalk is a community hub designed for teenagers to express themselves, share 
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Website 💖</title>
+    <SoftTalk>My Website 💖</SoftTalk>
     <style>
         body {
             background-color: #ffd6eb;
