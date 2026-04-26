@@ -1,5 +1,5 @@
 # SoftTalk
-SoftTalk is a community hub designed for teenagers to express themselves, share experiences, and foster personal growth through blogs, quizzes, and supportive discussions on life challenges. Its even for emotions aesthetics and asking questions to each other and learning from each others experiences.
+SoftTalk is a community hub designed for teenagers to express themselves, share experiences, and foster personal growth through blogs, quizzes, and supportive discussions on life challenges. It's even for emotions, aesthetics, and asking questions to each other and learning from each other's experiences.
 <!DOCTYPE html>
 <html>
 <head>
