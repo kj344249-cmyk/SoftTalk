@@ -6,7 +6,7 @@ SoftTalk is a community hub designed for teenagers to express themselves, share 
     <SoftTalk>My Website 💖</SoftTalk>
     <style>
         body {
-            background-color: #ffd6eb;
+            background-color: #87CEEB;
             font-family: Balette;
             text-align: center;
         }
